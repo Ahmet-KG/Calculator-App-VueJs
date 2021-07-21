@@ -109,6 +109,9 @@ export default {
   border: 1px solid #999;
   cursor: pointer;
 }
+.btn:active {
+  transform: scale(0.95);
+}
 .operator {
   background-color: orange;
   color: #fff;
