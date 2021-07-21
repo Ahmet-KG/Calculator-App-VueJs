@@ -98,7 +98,7 @@ export default {
 }
 .display {
   grid-column: 1/5;
-  background-color: #666;
+  background-color: #555;
   color: #fff;
 }
 .zero {
